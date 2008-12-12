@@ -8,13 +8,13 @@
 Summary:	Catalyst::Plugin::Dumper - Data::Dumper plugin for Catalyst
 Summary(pl.UTF-8):	Catalyst::Plugin::Dumper - wtyczka Data::Dumper dla Catalysta
 Name:		perl-Catalyst-Plugin-Dumper
-Version:	0.000002
+Version:	0.00005
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-authors/id/C/CH/CHISEL/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	adaa5284e011ebeef369327682c64597
+Source0:	http://www.cpan.org/modules/by-module/Catalyst/%{pdir}-%{pnam}-%{version}.tar.gz
+# Source0-md5:	6ed5a50de1b73e0788c74a107c45129d
 URL:		http://search.cpan.org/dist/Catalyst-Plugin-Dumper/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
